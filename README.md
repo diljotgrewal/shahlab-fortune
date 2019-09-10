@@ -52,7 +52,7 @@ sudo vim  /etc/profile.d/motd.sh
 
 and add the following to the file.
 ```
-/usr/games/fortune wisdom| /usr/games/cowsay -n
+/usr/games/fortune shahlab_fortune | /usr/games/cowsay -n
 ```
 
 
